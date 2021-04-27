@@ -1,7 +1,7 @@
 # Simon PIC18 course project
 In the context of a course of digital electronics, we had to solder, on a pre-made PCB, SMD and Through-hole component and program the microcontroller PIC18f25k40 to remake the game "Simon"
 
-##The PCB
+## The PCB
 ![alt text](https://github.com/LeoAda/Simon_PIC18_course_project/blob/main/pcb_picture.jpg "PCB picture")
 There is RGB led associate with 4 buttons, 4 green led, 1 commutator, 1 buzzer
 The circuit is powered by a 9v supply.
